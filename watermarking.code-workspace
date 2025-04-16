@@ -1,8 +1,10 @@
 {
 	"folders": [
 		{
-			"name": "watermarking",
 			"path": "."
+		},
+		{
+			"path": "../../Downloads/train_watermark"
 		}
 	],
 	"settings": {}
